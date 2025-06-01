@@ -2,8 +2,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=flpmch&label=Profile%20views&color=0e75b6&style=flat)
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
@@ -24,8 +22,12 @@
 
 **<h3 align="left">Contato</h3>**
 
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="felipe-quaglioto-machado-410b4b259" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/felipe-quaglioto-machado-410b4b259?trk=profile-badge">Felipe Quaglioto Machado</a></div>
-
+<p align="left">
+  <a href="https://br.linkedin.com/in/felipe-quaglioto-machado-410b4b259" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  </p>
+  
  **<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
