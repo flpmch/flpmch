@@ -17,7 +17,7 @@
  **<h3 align="left">Skills</h3>**
 
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: center;">
-  <img>src="(https://skillicons.dev/icons?i=js,lua,html,css)(https://skillicons.dev) height="28" alt="LUA" style="margin-right: 4px"></img>
+  <img src="https://skillicons.dev/icons?i=js,lua,html,css" height="28" alt="JavaScript, Lua, HTML, CSS" />
 </div>
 
  **<h3 align="left">GitHub Stats</h3>**
