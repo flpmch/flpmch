@@ -16,7 +16,7 @@
 
  **<h3 align="left">Skills</h3>**
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: center;">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: center;">
   <img src="https://skillicons.dev/icons?i=js,lua,html,css" height="28" alt="JavaScript, Lua, HTML, CSS" />
 </div>
 
